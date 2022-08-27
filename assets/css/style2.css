@@ -1,0 +1,125 @@
+
+.dark {
+    background-color: black;
+}
+header img {
+
+    width: 100%;
+
+}
+header h1 {
+   
+    background-size: cover;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+
+main {
+
+  width: 100;
+    
+}
+
+    
+
+p {
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px 0px 0px 0px;
+    
+}
+
+.div-descripcion {
+    background-color: #000000;
+    margin: 0;
+    padding: 45px 0;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.descripcion-texto {
+    width: 40%;
+    color: #FFFFFF;
+    display: inline-block;
+    font-family: 'Raleway', sans-serif;
+    padding-right: 50px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.descripcion-imagen {
+    display: inline-block;
+    width: 30%;
+    padding-left: 8%;
+    vertical-align: middle;
+}
+
+.descripcion-icono {
+    background-color: #1E1A13;
+    text-align: center;   
+    
+}
+
+.descripcion-icono h2 {
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    padding: 40px 0px 0px 0px;
+}
+
+.icono {
+
+    display: inline-block;
+    padding: 50px;
+    color: aliceblue;
+       
+}
+
+.icono p {
+    padding: 10px 50px 0px 50px;
+    font-size: 30px;
+}
+
+.imagen {
+    text-align: center;
+    vertical-align: middle;
+    margin: 50px; 
+  }  
+
+
+
+.fotos {
+    display: inline-block;
+    width: 30%;
+   
+       
+}
+
+.fotos img {
+    width: 100%;
+               
+}
+
+.seccion-footer{
+    text-align: center;
+    background-color: #1E1A13;
+    height: 50px;
+    padding: 10px 0px 0px 20px;
+    
+   
+}
+
+.seccion-footer :hover {
+    font-style: oblique;
+
+}
+
+.texto-footer {
+    display: inline-block
+}
+
+

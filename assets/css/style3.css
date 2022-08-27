@@ -1,0 +1,23 @@
+
+h3, p {
+    font-family: 'Roboto Serif', serif;
+}
+
+h6{
+    font-family: 'Roboto Serif', serif;
+    color: gray;
+    
+}
+
+button{
+    
+    font-family: 'Roboto Serif', serif !important;
+}
+
+a:hover{
+    
+    color: rgb(240, 120, 8) !important;
+}
+
+
+
